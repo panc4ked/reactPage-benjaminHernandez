@@ -3,7 +3,7 @@ import React from "react";
 export const Card = () => {
     return (
         <div class="row">
-				<div class="col-3">
+				<div class="col-md-3">
                     <div class="card">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRme6Eg2Yk14i2WxVvSuDedQg2h-K_h8pQB9h3YMt2QAQ&s" class="card-img-top" alt="..."/>
                         <div class="card-body">
@@ -13,7 +13,7 @@ export const Card = () => {
                         </div>
                     </div>
                 </div>
-				<div class="col-3">
+				<div class="col-md-3">
                 <div class="card">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRme6Eg2Yk14i2WxVvSuDedQg2h-K_h8pQB9h3YMt2QAQ&s" class="card-img-top" alt="..."/>
                         <div class="card-body">
@@ -23,7 +23,7 @@ export const Card = () => {
                         </div>
                     </div>
 				</div>
-				<div class="col-3">
+				<div class="col-md-3">
                 <div class="card">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRme6Eg2Yk14i2WxVvSuDedQg2h-K_h8pQB9h3YMt2QAQ&s" class="card-img-top" alt="..."/>
                         <div class="card-body">
@@ -33,7 +33,7 @@ export const Card = () => {
                         </div>
                     </div>
 				</div>
-				<div class="col-3">
+				<div class="col-md-3">
                 <div class="card">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRme6Eg2Yk14i2WxVvSuDedQg2h-K_h8pQB9h3YMt2QAQ&s" class="card-img-top" alt="..."/>
                         <div class="card-body">
